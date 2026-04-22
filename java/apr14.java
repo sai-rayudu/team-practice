@@ -5,6 +5,7 @@ public class apr14 {
         int[] b={1,2,3,4,4,3,2,2,5,6,3,4,6,7,5,3,4,6,3,2,4,6,4,5,6,4};
         int[] c={1,2,3,4,4,3,2,2,5,6,3,4,6,7,5,3,4,6,3,2,4,6,4,5,6,4};
 System.out.println("test");
+System.out.println("from test1 branch");
         //selection sort
         // select minimum and place it in correct position
 
