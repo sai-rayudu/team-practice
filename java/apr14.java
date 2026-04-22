@@ -4,7 +4,7 @@ public class apr14 {
         int[] a={1,2,3,4,4,3,2,2,5,6,3,4,6,7,5,3,4,6,3,2,4,6,4,5,6,4};
         int[] b={1,2,3,4,4,3,2,2,5,6,3,4,6,7,5,3,4,6,3,2,4,6,4,5,6,4};
         int[] c={1,2,3,4,4,3,2,2,5,6,3,4,6,7,5,3,4,6,3,2,4,6,4,5,6,4};
-
+System.out.println("test");
         //selection sort
         // select minimum and place it in correct position
 
